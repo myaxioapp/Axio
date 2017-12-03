@@ -1,0 +1,52 @@
+/* ================================= 
+  WEB FONTS
+==================================== 
+
+CONTROLS STYLES OF MAIN PAGE
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+
+/* ================================= 
+  ELEMENT STYLES
+==================================== */
+
+ {
+  box-sizing: border-box;
+}
+body {
+  
+  color: #576366;
+  background: #39CCCC;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  padding: 2%;
+  text-align: center;
+}
+/*
+h1,
+h2,
+ul {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  color: #404040;
+  font-size: 1.6em;
+  margin-bottom: 1.25em;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: #3b80d1;
+}
+hr {
+  border: 0;
+  height: 0;
+  margin: 2.3em 0 2em 0;
+  border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+/* FORM & BUTTON STYLES -------- */
